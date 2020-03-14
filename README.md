@@ -1,6 +1,13 @@
 # AlgorithmsCourse
 In this Algorithm Course we will cover some major type of DS and it's different implementation also some sorting and searching techniques
 
+### Backtracking
+|S. No.|Topic|Solution|
+|---------|--------|--------|
+|1.|[Find the number of island](https://www.geeksforgeeks.org/find-number-of-islands/)|[C++](./Backtracking/No.ofIsland.cpp)|
+|2.|N-Queens|[Java](./Backtracking/NQueens.java)|
+|3.|[BST - Tree Traversals](https://algorithms.tutorialhorizon.com/backtracking-rat-in-a-maze-puzzle/)|[C++](./Backtracking/RatNMaze.cpp)|
+
 
 ### Trees
 A tree is recursively defined as a set of one or more nodes where one node is designated as the root of the tree and all the remaining nodes can be partitioned into non-empty sets each of which is a sub-tree of the root.
