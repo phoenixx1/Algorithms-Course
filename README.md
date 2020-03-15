@@ -2,12 +2,15 @@
 In this Algorithm Course we will cover some major type of DS and it's different implementation also some sorting and searching techniques
 
 ### Backtracking
+The Backtracking is an algorithmic-technique to solve a problem by an incremental way. It uses recursive approach to solve the problems. We can say that the backtracking is used to find all possible combination to solve an optimization problem.
+
 |S. No.|Topic|Solution|
 |---------|--------|--------|
 |1.|[Find the number of island](https://www.geeksforgeeks.org/find-number-of-islands/)|[C++](./Backtracking/No.OfIsland.cpp)|
 |2.|N-Queens|[Java](./Backtracking/NQueens.java)|
 |3.|[BST - Tree Traversals](https://algorithms.tutorialhorizon.com/backtracking-rat-in-a-maze-puzzle/)|[C++](./Backtracking/RatNMaze.cpp)|
 
+### [Bit-Algorithm](./Bit-Algorithm)
 
 ### Trees
 A tree is recursively defined as a set of one or more nodes where one node is designated as the root of the tree and all the remaining nodes can be partitioned into non-empty sets each of which is a sub-tree of the root.
