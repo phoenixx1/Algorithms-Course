@@ -18,6 +18,7 @@ int main(){
     cout << endl << 1;
     return 0;    
 }
+//alternative
 /*
 int main(){
     
